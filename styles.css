@@ -33,7 +33,7 @@ main {
 /* 262 x 475 */
 
 .gradient {
-  background: url(/images/mask.png);
+  background: url(./images/mask.png);
   position: absolute;
   width: 358px;
   height: 540px;
