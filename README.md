@@ -5,11 +5,10 @@
 
 ### 🚀 Languages
 This project was developed in
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-</ul>
+
+  - HTML
+  - CSS
+  - Javascript
 
 ## 💻 Project
 DoWhile badge is my identification with my Social Medias
