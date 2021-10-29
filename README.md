@@ -10,9 +10,13 @@ This project was developed in
   - CSS
   - Javascript
 
-## 💻 Project
+##
+
+### 💻 Project
 DoWhile badge is my identification with my Social Medias
 
-## Deploy
+##
+
+### Deploy
 https://wallysson.github.io/nlw-badge-desktop/
 
